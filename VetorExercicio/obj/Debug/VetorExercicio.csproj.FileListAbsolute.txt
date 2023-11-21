@@ -1,0 +1,8 @@
+C:\Users\thiag\Desktop\Udemy C#\Vetores\VetorExercicio\VetorExercicio\bin\Debug\VetorExercicio.exe.config
+C:\Users\thiag\Desktop\Udemy C#\Vetores\VetorExercicio\VetorExercicio\bin\Debug\VetorExercicio.exe
+C:\Users\thiag\Desktop\Udemy C#\Vetores\VetorExercicio\VetorExercicio\bin\Debug\VetorExercicio.pdb
+C:\Users\thiag\Desktop\Udemy C#\Vetores\VetorExercicio\VetorExercicio\obj\Debug\VetorExercicio.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Udemy C#\Vetores\VetorExercicio\VetorExercicio\obj\Debug\VetorExercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\Desktop\Udemy C#\Vetores\VetorExercicio\VetorExercicio\obj\Debug\VetorExercicio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Udemy C#\Vetores\VetorExercicio\VetorExercicio\obj\Debug\VetorExercicio.exe
+C:\Users\thiag\Desktop\Udemy C#\Vetores\VetorExercicio\VetorExercicio\obj\Debug\VetorExercicio.pdb
